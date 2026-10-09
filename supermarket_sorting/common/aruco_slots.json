@@ -1,0 +1,272 @@
+[
+  {
+    "aruco_id": 0,
+    "shelf": "A",
+    "level": "L1",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 1,
+    "shelf": "A",
+    "level": "L1",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 2,
+    "shelf": "A",
+    "level": "L1",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 3,
+    "shelf": "A",
+    "level": "L2",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 4,
+    "shelf": "A",
+    "level": "L2",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 5,
+    "shelf": "A",
+    "level": "L2",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 6,
+    "shelf": "A",
+    "level": "L3",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 7,
+    "shelf": "A",
+    "level": "L3",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 8,
+    "shelf": "A",
+    "level": "L3",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 9,
+    "shelf": "B",
+    "level": "L1",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 10,
+    "shelf": "B",
+    "level": "L1",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 11,
+    "shelf": "B",
+    "level": "L1",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 12,
+    "shelf": "B",
+    "level": "L2",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 13,
+    "shelf": "B",
+    "level": "L2",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 14,
+    "shelf": "B",
+    "level": "L2",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 15,
+    "shelf": "B",
+    "level": "L3",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 16,
+    "shelf": "B",
+    "level": "L3",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 17,
+    "shelf": "B",
+    "level": "L3",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 18,
+    "shelf": "C",
+    "level": "L1",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 19,
+    "shelf": "C",
+    "level": "L1",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 20,
+    "shelf": "C",
+    "level": "L1",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 21,
+    "shelf": "C",
+    "level": "L2",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 22,
+    "shelf": "C",
+    "level": "L2",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 23,
+    "shelf": "C",
+    "level": "L2",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 24,
+    "shelf": "C",
+    "level": "L3",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 25,
+    "shelf": "C",
+    "level": "L3",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 26,
+    "shelf": "C",
+    "level": "L3",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 27,
+    "shelf": "D",
+    "level": "L1",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 28,
+    "shelf": "D",
+    "level": "L1",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 29,
+    "shelf": "D",
+    "level": "L1",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 30,
+    "shelf": "D",
+    "level": "L2",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 31,
+    "shelf": "D",
+    "level": "L2",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 32,
+    "shelf": "D",
+    "level": "L2",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 33,
+    "shelf": "D",
+    "level": "L3",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 34,
+    "shelf": "D",
+    "level": "L3",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 35,
+    "shelf": "D",
+    "level": "L3",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 36,
+    "shelf": "E",
+    "level": "L1",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 37,
+    "shelf": "E",
+    "level": "L1",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 38,
+    "shelf": "E",
+    "level": "L1",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 39,
+    "shelf": "E",
+    "level": "L2",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 40,
+    "shelf": "E",
+    "level": "L2",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 41,
+    "shelf": "E",
+    "level": "L2",
+    "column": "C3"
+  },
+  {
+    "aruco_id": 42,
+    "shelf": "E",
+    "level": "L3",
+    "column": "C1"
+  },
+  {
+    "aruco_id": 43,
+    "shelf": "E",
+    "level": "L3",
+    "column": "C2"
+  },
+  {
+    "aruco_id": 44,
+    "shelf": "E",
+    "level": "L3",
+    "column": "C3"
+  }
+]
