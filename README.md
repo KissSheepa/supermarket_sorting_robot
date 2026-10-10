@@ -5,8 +5,11 @@
 
 ## 🎬 运行视频演示 (Demo)
 
-<!-- 直接将 MP4 视频拖入 GitHub 编辑框，替换下方链接即可 -->
-https://github.com/user-attachments/assets/你的视频链接占位符.mp4
+
+
+https://github.com/user-attachments/assets/7083459d-4e1b-48fa-af82-81b8705fe8ad
+
+
 
 ### 流程说明：
 1. **任务下发**：接收并解析零售订单（支持可乐、脉动、苹果等 9 类常见商品）。
